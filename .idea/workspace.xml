@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c11e371-a43b-48d7-a0c2-ccf0017804a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1q6mol6XDHzbUSShiNIle6gpvLQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dump_mysql" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Insert_stix">
+    <configuration name="Insert_stix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ti.dump_hdfs.Insert_stix" />
+      <module name="dump_hdfs" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\guo\Desktop\input1&quot;    &quot;hdfs://hbase:9000/user/root/test/&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ti.dump_hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProduceHdfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ti.dump_hdfs.util.ProduceHdfs" />
+      <module name="dump_hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ti.dump_hdfs.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ti.dump_hdfs.test" />
+      <module name="dump_hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ti.dump_hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Insert_stix" />
+      <item itemvalue="Application.ProduceHdfs" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Insert_stix" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.ProduceHdfs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c11e371-a43b-48d7-a0c2-ccf0017804a6" name="Default Changelist" comment="" />
+      <created>1616408590396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616408590396</updated>
+      <workItem from="1616408593239" duration="91000" />
+      <workItem from="1616408786833" duration="706000" />
+      <workItem from="1616409517149" duration="2754000" />
+      <workItem from="1616567068919" duration="53000" />
+      <workItem from="1616664207778" duration="193000" />
+      <workItem from="1616664481630" duration="24000" />
+      <workItem from="1616669453346" duration="72000" />
+      <workItem from="1616675126456" duration="13000" />
+      <workItem from="1617007790566" duration="3021000" />
+      <workItem from="1617018936192" duration="312000" />
+      <workItem from="1617020736522" duration="738000" />
+      <workItem from="1617021665410" duration="173000" />
+      <workItem from="1617022872250" duration="31000" />
+      <workItem from="1617784007827" duration="2377000" />
+      <workItem from="1617786862081" duration="39000" />
+      <workItem from="1617787411102" duration="3182000" />
+      <workItem from="1617795493892" duration="147000" />
+      <workItem from="1617795735854" duration="42000" />
+      <workItem from="1617795987039" duration="5138000" />
+      <workItem from="1617801613396" duration="388000" />
+      <workItem from="1617802013988" duration="583000" />
+      <workItem from="1617802765251" duration="86000" />
+      <workItem from="1617849412719" duration="86000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="883" y="386" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617798269928">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="883" y="386" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1617798269928" />
+    <state x="1383" y="485" key="FileChooserDialogImpl" timestamp="1617849496663">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1383" y="485" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1617849496663" />
+    <state width="1499" height="269" key="GridCell.Tab.0.bottom" timestamp="1617802598552">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1499" height="269" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1617802598552" />
+    <state width="1499" height="269" key="GridCell.Tab.0.center" timestamp="1617802598552">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1499" height="269" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1617802598552" />
+    <state width="1499" height="269" key="GridCell.Tab.0.left" timestamp="1617802598552">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1499" height="269" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1617802598552" />
+    <state width="1499" height="269" key="GridCell.Tab.0.right" timestamp="1617802598552">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1499" height="269" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1617802598552" />
+    <state width="816" height="332" key="GridCell.Tab.1.bottom" timestamp="1617021474823">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="816" height="332" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1617021474823" />
+    <state width="816" height="332" key="GridCell.Tab.1.center" timestamp="1617021474823">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="816" height="332" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1617021474823" />
+    <state width="816" height="332" key="GridCell.Tab.1.left" timestamp="1617021474823">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="816" height="332" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1617021474823" />
+    <state width="816" height="332" key="GridCell.Tab.1.right" timestamp="1617021474823">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="816" height="332" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1617021474823" />
+    <state x="1106" y="372" key="SettingsEditor" timestamp="1616409283548">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1106" y="372" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1616409283548" />
+  </component>
+</project>
