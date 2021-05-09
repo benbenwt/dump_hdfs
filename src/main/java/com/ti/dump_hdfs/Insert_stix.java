@@ -12,14 +12,13 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URI;
-import java.nio.file.Paths;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class Insert_stix {
     private  ProduceHdfs produceHdfs;
 
-    private  void dump_hdfs(String hdfsPath,String localPath) throws IOException {
+    public  void dump_hdfs(String hdfsPath,String localPath) throws IOException {
         Configuration configuration = new Configuration();
         configuration.set("fs.hdfs.impl", org.apache.hadoop.hdfs.DistributedFileSystem.class.getName());
         configuration.set("fs.file.impl", org.apache.hadoop.fs.LocalFileSystem.class.getName());
@@ -29,9 +28,9 @@ public class Insert_stix {
         IOUtils.copyBytes(in, out, 100, true);
     }
 
-    private  void  submitStixDirectory(String stix_directory,String hdfs_directory) throws IOException {
+    public  void  submitStixDirectory(String stix_directory,String hdfs_directory) throws IOException {
         produceHdfs=new ProduceHdfs();
-        File file=new File(stix_directory);
+        File file=new File(stix_directory.replace("\"",""));
         String new_hdfs_directory=hdfs_directory+getCurrentTime()+"/";
         if(file.exists())
         {
@@ -56,7 +55,6 @@ public class Insert_stix {
         Date date=new Date();
         SimpleDateFormat simpleDateFormat=new SimpleDateFormat("yyyy-MM-dd_HH.mm.ss");
         String format_date=simpleDateFormat.format(date);
-        System.out.println(format_date);
         return  format_date;
     }
 
