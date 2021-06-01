@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c11e371-a43b-48d7-a0c2-ccf0017804a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ti/dump_hdfs/Insert_stix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ti/dump_hdfs/Insert_stix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ti/dump_hdfs/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ti/dump_hdfs/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ti/dump_hdfs/util/ConsumeLisa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ti/dump_hdfs/util/ConsumeLisa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,6 +188,13 @@
       <workItem from="1621501391084" duration="2323000" />
       <workItem from="1621508348628" duration="421000" />
       <workItem from="1621508795068" duration="5689000" />
+      <workItem from="1621580819388" duration="262000" />
+      <workItem from="1621581930550" duration="1151000" />
+      <workItem from="1621585843124" duration="8000" />
+      <workItem from="1622449009031" duration="136000" />
+      <workItem from="1622449171049" duration="24000" />
+      <workItem from="1622531372761" duration="10000" />
+      <workItem from="1622532136022" duration="9000" />
     </task>
     <servers />
   </component>
@@ -246,6 +246,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="745" y="296" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1621337189924" />
+    <state x="588" y="458" width="759" height="548" key="find.popup" timestamp="1622449181829">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="588" y="458" width="759" height="548" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1622449181829" />
     <state x="1242" y="503" key="new project wizard" timestamp="1620957363540">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
